@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyUnitTesting</string>
+    <string name="width">Lebar</string>
+    <string name="result">Hasil</string>
+    <string name="calculate_volume">Hitung\nVolume</string>
+    <string name="calculate_surface_area">Hitung\nLuas Area</string>
+    <string name="calculate_circumference">Hitung\nKeliling</string>
+    <string name="height">Tinggi</string>
+    <string name="length">Panjang</string>
+    <string name="save">Simpan</string>
+</resources>
